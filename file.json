@@ -1,0 +1,22 @@
+{
+    "books": [
+        {
+            "title": "The Great Gatsby",
+            "author": "F. Scott Fitzgerald",
+            "isbn": "978-0-7432-7356-5",
+            "status": "available"
+        },
+        {
+            "title": "To Kill a Mockingbird",
+            "author": "Harper Lee",
+            "isbn": "978-0-06-112008-4",
+            "status": "issued"
+        },
+        {
+            "title": "1984",
+            "author": "George Orwell",
+            "isbn": "978-0-451-52494-2",
+            "status": "available"
+        }
+    ]
+}
